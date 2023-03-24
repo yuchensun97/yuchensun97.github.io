@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering, Jilin University, 2019
+* M.S. in Robotics and Computer Science (double degrees), University of Pennsylvania, 2022
+* Ph.D in Soft Robotics, National University of Singapore, 2026 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Now: Research Assistant
+  * National University of Singapore
+  * Duties included: Solving embedded dynamics of an octopus-inspired underwater robot mathematically, with models and simulations
+  * Supervisor: Cecilia Laschi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020 - Summer 2022: Research Assistant
+  * University of Pennsylvania
+  * Duties included: Designing the self-righting mechanism for an origami jumping robot
+  * Supervisor: Cynthia Sung
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Python
+  * C/C++
+  * JAVA
+  * JavaScript
+  * SQL
+* Mechantronics
+  * Arduino
+  * SolidWorks
+  * CATIA
+  * Simulink
+* Tools
+  * Git
+  * MATLAB
 
 Publications
 ======
@@ -48,12 +56,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Hobbies
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Crochet & Knitting
+* Sports fans
+  * Football (Argentina & Manchester City)
+  * Formula 1 (RedBull Racing)
+  * Figure Skating
+  * Gymnastics
