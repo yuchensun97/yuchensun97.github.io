@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the personal academic website of Yuchen Sun, a highly motivated and passionate first-year PhD student specializing in soft robotics. With a keen interest in advancing the field of robotics, Yuchen is currently exploring the intricacies of modeling, control and interation with the enivironment in underwater soft robotic systems to create innovative and adaptable solutions.
+Welcome to the personal academic website of Yuchen Sun, a highly motivated and passionate first-year PhD student in Soft Robotics Lab @ National University of Singapore. With a keen interest in advancing the field of robotics, Yuchen is currently exploring the intricacies of modeling, control and interation with the enivironment in underwater soft robotic systems to create innovative and adaptable solutions.
 
 Yuchen obtained B.Eng in Mechanical Engineering from Jilin University, China 2019, where she built a strong foundation in the fundamental principles of engineering and design. This background enabled her pursued dual Master's degrees in Robotics and Computer Science in University of Pennsylvaina from 2019 to 2022, further honing her expertise in robotic systems and computational algorithms.
 
