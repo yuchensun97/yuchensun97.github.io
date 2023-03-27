@@ -1,4 +1,3 @@
-
 ---
 title: "Repeated Jumping with the REBOund: Self-Righting Jumping Robot Leveraging Bistable Origami-Inspired Design"
 collection: publications
