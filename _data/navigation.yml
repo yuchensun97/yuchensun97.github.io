@@ -6,14 +6,14 @@ main:
   - title: "Talks"
     url: /talks/       
         
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
     
   - title: "CV"
     url: /cv/
     
-  - title: "News"
-    url: /news/
+#   - title: "News"
+#     url: /news/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
