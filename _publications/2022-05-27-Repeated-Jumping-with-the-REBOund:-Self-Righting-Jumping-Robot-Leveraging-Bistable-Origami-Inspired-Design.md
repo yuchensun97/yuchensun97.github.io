@@ -3,7 +3,7 @@ title: "Repeated Jumping with the REBOund: Self-Righting Jumping Robot Leveragin
 collection: publications
 permalink: /publication/2022-05-27-Repeated-Jumping-with-the-REBOund:-Self-Righting-Jumping-Robot-Leveraging-Bistable-Origami-Inspired-Design
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2022-05-23
 venue: '2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA'
 paperurl: 'https://ieeexplore.ieee.org/document/9812232'
 citation: 'Y. Sun*, J. Wang*, and C. Sung. (2022). &quot;Repeated Jumping with the REBOund: Self-Righting Jumping Robot Leveraging Bistable Origami-Inspired Design.&quot; <i>2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA</i>. pp.7189-7195.'
