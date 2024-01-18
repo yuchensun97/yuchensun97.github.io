@@ -59,8 +59,3 @@ Talks
 Hobbies
 ======
 * Crochet & Knitting
-* Sports fans
-  * Football (Argentina & Manchester City)
-  * Formula 1 (RedBull Racing)
-  * Figure Skating
-  * Gymnastics
